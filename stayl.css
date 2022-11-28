@@ -1,0 +1,30 @@
+body {
+  background-color: dimgrey;
+  text-align: center;
+}
+
+#input {
+  padding: 10px 20px;
+  font-size: 28px;
+  color: red;
+  border: none;
+  outline: none;
+  border-radius: 12px 0px 0px 12px;
+}
+#button {
+  padding: 10px 20px;
+  font-size: 28px;
+  color: red;
+  border: none;
+  border-radius: 0px 12px 12px 0px;
+  background-color: #fff;
+  margin-left: -20px;
+  transform: 0.5s;
+}
+#button:hover {
+  background-color: red;
+  color: wheat;
+}
+.text__itm {
+  font-size: 50px;
+}
